@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6, p, li, ol, ul, .button {
+    font-family: arial, verdana, sans-serif;
+}
+
+p {
+
+}
+
+li, ol, ul {
+    color: hsla(0, 0%, 13%, 0.601);
+    
+}
+
+img {
+    border-radius: 16px;
+    height: 250px;
+    width: auto
+}
+
+.button {
+    color: white;
+    background-color: rgb(7, 90, 255);
+    padding-top:  10px;
+    padding-bottom: 10px;
+    padding-left:  20px;
+    padding-right: 20px;
+    border-radius: 60px;
+    text-decoration: none;   
+}
+
+.spacer {
+    height: 20px;
+}
